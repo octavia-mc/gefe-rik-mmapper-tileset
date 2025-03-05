@@ -1,5 +1,5 @@
-Gefe/Rik MMapper Tileset
-========================
+Gefe/Rik MMapper Tileset v0.1
+=============================
 
 An MMapper tileset based on Gefe and Rik's classic MUME maps.
 
